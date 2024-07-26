@@ -48,7 +48,7 @@ body {
     justify-content: center;
     align-items: center;
     background-color: var(--white);
-    font-family: "Hanken Grotesk", sans-serif;
+    font-family: "Hanken Grotesk", sans-serif;  
     padding: 2rem;
     min-height: 100svh;
 }
@@ -91,6 +91,8 @@ main {
 .score__obtained {
     font-size: 3rem;
     color: var(--white);
+    font-weight: var(--f800);
+
 }
 
 .total__score {
